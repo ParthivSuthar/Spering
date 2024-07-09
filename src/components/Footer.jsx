@@ -5,7 +5,7 @@ import { contactDetails } from "../constants/data";
 
 function Footer() {
   return (
-    <footer className="bg-slate-800 px-6 py-6">
+    <footer className="bg-slate-800 px-6 pt-12">
       <div className="flex justify-between items-center">
         <div>
           <img src={logo} alt="footer-logo" className="w-8" />
